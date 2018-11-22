@@ -9,5 +9,3 @@ compile_commands.json
 CTestTestfile.cmake
 build/
 *~
-thirdparty/json/
-thirdparty/Catch2/

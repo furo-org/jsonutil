@@ -1,0 +1,6 @@
+[submodule "thirdparty/json"]
+	path = thirdparty/json
+	url = https://github.com/nlohmann/json.git
+[submodule "thirdparty/Catch2"]
+	path = thirdparty/Catch2
+	url = https://github.com/catchorg/Catch2.git
